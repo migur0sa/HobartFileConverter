@@ -20,4 +20,4 @@ This is an explanation of what the script is doing in case you need to modify it
 
 The result is a cleaned and formatted file that is easier to read and process. Enjoy 🚀
 
-Later on I will upload a new script to pull ingredients out of the scales.
+Later on I will upload a new script to pull ingredients out of the scale files.
